@@ -30,7 +30,7 @@ class Worker: Person{
         
     }
     func work(){
-        print("\(lastname) is working")
+        print("\(lastname) is working hard")
     }
     
     override func sayHello() -> String{
